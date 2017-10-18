@@ -1,0 +1,10 @@
+{
+"server":"ip",
+"port_password":{
+     "8989":"xxx",
+     },
+"timeout":60,
+"method":"aes-256-cfb",
+"fast_open":false,
+"workers":1
+}
