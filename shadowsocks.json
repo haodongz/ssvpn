@@ -1,6 +1,7 @@
 {
 "server":"ip",
 "port_password":{
+     "8989":"xxx"
      "8989":"xxx",
      },
 "timeout":60,
